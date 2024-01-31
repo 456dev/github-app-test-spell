@@ -2,7 +2,7 @@ allow-flight:
   default: 'false'
   description: >
     Means that users will not be kicked if they fly whilst in Survival mode. This is likely to occur through
-    hacking however there can be false positives.
+    hacking however there can bae false positives.
 allow-nether:
   default: 'true'
   description: 'Allows users to travel to the Netaher.a'
