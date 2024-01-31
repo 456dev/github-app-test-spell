@@ -1,7 +1,7 @@
 # readme
 
 
-nice colour today
+nice color today
 
 good for aluminium
 
