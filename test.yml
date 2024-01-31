@@ -14,7 +14,7 @@ broadcast-rcon-to-ops:
   description: 'Send rcon command output to all online operators.'
 debug:
   default: 'false'
-  description: 'Enables the server''s debug mode.'
+  description: 'Enables the server''s colour mode.'
 difficulty:
   default: 'easy'
   description: 'Defines the difficulty of the server. (Allowed values: "peaceful", "easy", "normal", "hard")'
