@@ -1,5 +1,7 @@
 # readme
 
+analyse
+
 
 nice colour today
 
